@@ -1,6 +1,4 @@
-
-  
-## Portfolio
+# Portfolio
 
 - Welcome to my portfolio repository! This is where I showcase my projects, skills, and accomplishmenst.
 - Get a glimpse of my professional journey, highlighting my expertise, creativity, and passion for what I do.
